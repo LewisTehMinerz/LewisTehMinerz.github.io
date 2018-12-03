@@ -1,0 +1,16 @@
+[
+  {
+    "serverName": "Hypixel",
+    "serverLogo": "hypixel_logo",
+    "serverIps": [
+      "mc.hypixel.net"
+    ]
+  },
+  {
+    "serverName": "NICKCONTROL",
+    "serverLogo": "nctl_logo",
+    "serverIps": [
+      "play.nickcontrol.ch"
+    ]
+  }
+]
