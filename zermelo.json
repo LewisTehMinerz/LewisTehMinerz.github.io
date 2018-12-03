@@ -12,5 +12,12 @@
     "serverIps": [
       "play.nickcontrol.ch"
     ]
+  },
+  {
+    "serverName": "CenturionMC",
+    "serverLogo": "centurion_logo",
+    "serverIps": [
+      "mc.centurion.pw"  
+    ]
   }
 ]
